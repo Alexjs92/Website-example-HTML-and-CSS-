@@ -1,6 +1,4 @@
 # Website-example
-Simple website to edit.
+Simple website to edit💻.
 
-INFO: Simple-website to edit
-INSTRUCTIONS:
--In the <p class="x"> put the name here</p> #- You can put text here
+INFO: You can insert you customize text in the <p> and the colors using the other script with css😀
